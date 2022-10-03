@@ -1,0 +1,37 @@
+   0 mkdir /home/user
+   1 mkdir /home/user/start/1.txt
+   2 cd /home
+   3 ls
+   4 cd user
+   5 ls
+   6 mkdir /start/1.txt
+   7 ls
+   8 mkdir /start
+   9 ls
+  10 mkdir start
+  11 ls
+  12 touch /1.txt
+  13 ls
+  14 cd start
+  15 ls
+  16 touch 1.txt
+  17 ls
+  18 echo 'Start'> 1.txt
+  19 ls
+  20 date
+  21 cd /home
+  22 mkdir /opt/task
+  23 mkdir /opt/task/start.txt
+  24 ls
+  25 mkdir opt
+  26 ls
+  27 cd opt
+  28 mkdir task
+  29 ls
+  30 cd task
+  31 touch start.txt
+  32 ls
+  33 cd /home
+  34 cp -r /user/start/1.txt
+  35 cp -r user/start/1.txt
+  36 history > history.txt
